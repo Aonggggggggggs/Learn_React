@@ -1,7 +1,8 @@
 # React + Vite
 
-ApI request: PokeAPI
- 
+Learn React
+
+API request: PokeAPI 
 funtion:
 ```
 -Favourite
